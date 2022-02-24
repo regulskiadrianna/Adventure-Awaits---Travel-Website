@@ -288,4 +288,9 @@ input[type=submit]:hover {
   .column {
     width: 100%;
   }
+  
+  input[type=submit] {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  }
 }
